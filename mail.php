@@ -1,6 +1,6 @@
 <?php
     
-    $to = 'fountaindynamics1@gmail.com';
+    $to = 'info@enikkomgroup.com';
     $name = $_POST["name"];
     $email= $_POST["email"];
     $text= $_POST["message"];
