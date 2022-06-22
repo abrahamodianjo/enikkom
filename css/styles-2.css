@@ -4255,19 +4255,17 @@ i) Forms
 21. Clients
 -------------------------------------------*/
 .clients img{
-	opacity: .5;
+
 	-webkit-transition-duration: .3s;
 	transition-duration: .3s;
 }
 
-.clients img:hover{
-	opacity: 1;
-}
+
 
 .clients-grid img{
 	display: inline-block;
 	width: 32%;
-	opacity: .5;
+
 	margin: 15px 0px;
 	padding: 10px;
 	-webkit-transition-duration: .3s;
