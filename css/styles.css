@@ -2118,11 +2118,13 @@ i) Forms
 -------------------------------------------*/
 .breadcrumb-section{
     position: relative;
-	background-image: url('http://via.placeholder.com/1500x630');
+	background-image: url("../img/slide-3.jpg");
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 80px 0px 80px 0px;
+	margin-bottom: 40px;
 }
 
 .breadcrumb-section h1 {
@@ -4898,7 +4900,6 @@ i) Forms
 }
 
 .pixels-bg:after {
-    background: url("../img/content/bgs/bg-pixel.png");
     content: "";
     height: 100%;
     left: 0;
@@ -4910,7 +4911,6 @@ i) Forms
 }
 
 .pixels-bg-upp:after {
-    background: url("../img/content/bgs/bg-pixel.png");
     content: "";
     height: 100%;
     left: 0;
