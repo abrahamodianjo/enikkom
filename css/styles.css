@@ -1,74 +1,5 @@
 
-/*
-==============================================
-TABLE OF CONTENT
-==============================================
 
-0. Imports
-1. Sections 
-2. Headings 
-3. Preloader  
-4. Header
-5. Fonts
-6. Scroll To Top 
-7. Helper Classes  
-	a) Text-content
-	b) Image-properties
-	c) Buttons
-	d) Lists
-	e) Color Control
-	f) Video Box
-	g) Pagination
-	h) Overlays & Opacity
-	i) Forms
-8. Breadcrumb
-9. Modals
-10. Tabs
-11. Progress Bars
-12. Pie Charts
-13. Countups
-14. Countdowns
-15. Accordions
-16. Owl Carousel
-17. Animations
-18. Services
-19. Features
-20. Testmonials
-21. Clients
-22. Callback
-23. Contact Forms
-24. Action Boxes
-25. Overlay Effect
-26. Pricing
-27. Team
-28. Chart JS
-29. Timeline
-30. Contact
-31. Search Results
-32. Sidebar
-33. Vertical Nav
-34. Modals
-35. Maintenance
-36. Error Pages
-37. Shop
-38. Shop Single
-39. Shop Cart
-40. Portfolio
-41. Portfolio Single
-42. Blog Grid
-43  Blog List
-44. Revolution Slider
-45. Footer
-
-==============================================
-[END] TABLE OF CONTENT
-==============================================
-*/
-
-
-/*-----------------------------------------
-0. Imports
--------------------------------------------*/
 /*Navigation Menu*/
 @import url("navigation.css");
 
@@ -599,12 +530,13 @@ TABLE OF CONTENT
 
 .top-bar-info {
     padding: 0px;
+
 }
 
 .top-bar-info li{
     font-size: 13px;
     font-weight: 400;
-    color: #aaa;
+    color: black;
     border-left: 1px solid #eee;
     list-style-type: none;
     float: left;
@@ -614,7 +546,7 @@ TABLE OF CONTENT
 
 .top-bar-info li i{
     font-size: 15px;
-    color: #222;
+    color: #00aeef;
     padding-right: 8px;
 }
 
@@ -2118,7 +2050,7 @@ i) Forms
 -------------------------------------------*/
 .breadcrumb-section{
     position: relative;
-	background-image: url("../img/slide-3.jpg");
+	background-image: url("../img/6.jpg");
 
     background-position: center;
     background-repeat: no-repeat;
@@ -2165,6 +2097,12 @@ i) Forms
 
 .breadcrumb-section ul li a:hover {
     opacity: 1;
+}
+.image-enik{
+	border-radius: 60px;
+	margin-left: 30px;
+	margin-right: 30px;
+	padding: 20px;
 }
 
 /*-----------------------------------------
