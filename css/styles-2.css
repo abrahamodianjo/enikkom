@@ -1,80 +1,4 @@
-/*
-	Project Name : Lumire - Business & Consulting Multi-Purpose Template
-	Author Company : SpecThemes
-	Project Date: 27 Jan, 2019
-	Template Developer: vsafaryan50@gmail.com
-*/
 
-/*
-==============================================
-TABLE OF CONTENT
-==============================================
-
-0. Imports
-1. Sections 
-2. Headings 
-3. Preloader  
-4. Header
-5. Fonts
-6. Scroll To Top 
-7. Helper Classes  
-	a) Text-content
-	b) Image-properties
-	c) Buttons
-	d) Lists
-	e) Color Control
-	f) Video Box
-	g) Pagination
-	h) Overlays & Opacity
-	i) Forms
-8. Breadcrumb
-9. Modals
-10. Tabs
-11. Progress Bars
-12. Pie Charts
-13. Countups
-14. Countdowns
-15. Accordions
-16. Owl Carousel
-17. Animations
-18. Services
-19. Features
-20. Testmonials
-21. Clients
-22. Callback
-23. Contact Forms
-24. Action Boxes
-25. Overlay Effect
-26. Pricing
-27. Team
-28. Chart JS
-29. Timeline
-30. Contact
-31. Search Results
-32. Sidebar
-33. Vertical Nav
-34. Modals
-35. Maintenance
-36. Error Pages
-37. Shop
-38. Shop Single
-39. Shop Cart
-40. Portfolio
-41. Portfolio Single
-42. Blog Grid
-43  Blog List
-44. Revolution Slider
-45. Footer
-
-==============================================
-[END] TABLE OF CONTENT
-==============================================
-*/
-
-
-/*-----------------------------------------
-0. Imports
--------------------------------------------*/
 /*Navigation Menu*/
 @import url("navigation.css");
 
@@ -4255,19 +4179,17 @@ i) Forms
 21. Clients
 -------------------------------------------*/
 .clients img{
-	opacity: .5;
+
 	-webkit-transition-duration: .3s;
 	transition-duration: .3s;
 }
 
-.clients img:hover{
-	opacity: 1;
-}
+
 
 .clients-grid img{
 	display: inline-block;
 	width: 32%;
-	opacity: .5;
+
 	margin: 15px 0px;
 	padding: 10px;
 	-webkit-transition-duration: .3s;
