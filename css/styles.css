@@ -1,9 +1,3 @@
-/*
-	Project Name : Lumire - Business & Consulting Multi-Purpose Template
-	Author Company : SpecThemes
-	Project Date: 27 Jan, 2019
-	Template Developer: vsafaryan50@gmail.com
-*/
 
 /*
 ==============================================
@@ -206,7 +200,7 @@ TABLE OF CONTENT
 
 .block-primary-bg{
 	position: relative;
-	background: #d21825;
+	background: #00aeef;
 }
 
 .block-dark-bg{
@@ -225,7 +219,7 @@ TABLE OF CONTENT
 }
 
 .primary-bg{
-	background-color: #d21825!important;
+	background-color: #00aeef!important;
 }
 
 .grey-bg{
@@ -369,7 +363,7 @@ TABLE OF CONTENT
 	display: inline-block;
 	font-size: 14px;
 	font-weight: 600;
-	color: #d21825;
+	color: #00aeef;
 	padding-bottom: 5px;
 }
 
@@ -422,7 +416,7 @@ TABLE OF CONTENT
 .large-heading small{
 	font-size: 14px;
 	font-weight: 700;
-	color: #d21825;
+	color: #00aeef;
 	line-height: 250%;
 	text-transform: uppercase;
 	padding-bottom: 5px;
@@ -434,7 +428,7 @@ TABLE OF CONTENT
 	width: 100px;
 	border-radius: 10px;
 	height: 6px;
-	background: #d21825;
+	background: #00aeef;
 	margin: auto;
 	margin-top: 20px;
 	margin-bottom: 10px;
@@ -458,7 +452,7 @@ TABLE OF CONTENT
 	width: 100px;
 	border-radius: 10px;
 	height: 6px;
-	background: #d21825;
+	background: #00aeef;
 	margin-top: 10px;
 	margin-bottom: 0px;
 }
@@ -470,7 +464,7 @@ TABLE OF CONTENT
 	width: 100px;
 	border-radius: 10px;
 	height: 6px;
-	background: #d21825;
+	background: #00aeef;
 	margin-top: 10px;
 	margin-bottom: 0px;
 }
@@ -514,7 +508,7 @@ TABLE OF CONTENT
 .loader-icon {
 	width: 100px;
 	height: 100px;
-	border: 2px solid #d21825;
+	border: 2px solid #00aeef;
 	border-right-color: transparent;
 	border-radius: 50%;
 	position: relative;
@@ -542,7 +536,7 @@ TABLE OF CONTENT
 	width: 11px;
 	height: 11px;
 	border-radius: 50%;
-	background: #d21825;
+	background: #00aeef;
 	animation-timing-function: cubic-bezier(0, 1, 1, 0);
 }
 .lds-ellipsis div:nth-child(1) {
@@ -652,24 +646,24 @@ TABLE OF CONTENT
 }
 
 .social-icons a:hover{
-    color: #d21825;
+    color: #00aeef;
 }
 
 /*-------- Navigation Menu --------*/
 .nav-menu > li:hover > a,
 .nav-menu > li.active > a,
 .nav-menu > li.focus > a {
-	color: #d21825;
+	color: #00aeef;
 }
 
 .nav-menu > li:hover > a .submenu-indicator-chevron,
 .nav-menu > .active > a .submenu-indicator-chevron,
 .nav-menu > .focus > a .submenu-indicator-chevron {
-	border-color: transparent #d21825#d21825transparent;
+	border-color: transparent #00aeef#00aeeftransparent;
 }
 
 .nav-search-button:hover .nav-search-icon {
-	color: #d21825;
+	color: #00aeef;
 }
 
 .nav-button {
@@ -682,47 +676,47 @@ TABLE OF CONTENT
 	text-align: center;
 	text-decoration: none;
 	border-radius: 4px;
-	background-color: #d21825;
+	background-color: #00aeef;
 	-webkit-transition: opacity 0.3s;
 	transition: opacity 0.3s;
 }
 
 .megamenu-list > li > a:hover {
-	color: #d21825;
+	color: #00aeef;
 }
 
 @media (min-width: 991px) {
 	#nav-transparent .nav-menu > li:hover > a,
 	#nav-transparent .nav-menu > li.active > a,
 	#nav-transparent .nav-menu > li.focus > a {
-		color: #d21825;
+		color: #00aeef;
 	}
 
 	#nav-transparent .nav-menu > li:hover > a .submenu-indicator-chevron,
 	#nav-transparent .nav-menu > .active > a .submenu-indicator-chevron,
 	#nav-transparent .nav-menu > .focus > a .submenu-indicator-chevron {
-		border-color: transparent #d21825#d21825transparent;
+		border-color: transparent #00aeef#00aeeftransparent;
 	}
 
 	#nav-transparent .nav-dropdown > li:hover > a .submenu-indicator-chevron,
 	#nav-transparent .nav-dropdown > .focus > a .submenu-indicator-chevron {
-		border-color: transparent #d21825#d21825transparent;
+		border-color: transparent #00aeef#00aeeftransparent;
 	}
 
 	#nav-transparent .nav-white-bg .nav-menu > li:hover > a{
-		color: #d21825;
+		color: #00aeef;
 	}
 }
 
 .nav-dropdown > li:hover > a,
 .nav-dropdown > li.focus > a {
-	color: #d21825;
+	color: #00aeef;
 }
 
 
 .nav-dropdown > li:hover > a .submenu-indicator-chevron,
 .nav-dropdown > .focus > a .submenu-indicator-chevron {
-	border-color: transparent #d21825#d21825transparent;
+	border-color: transparent #00aeef#00aeeftransparent;
 }
 
 /*-----------------------------------------
@@ -814,7 +808,7 @@ TABLE OF CONTENT
 /*-----------------------------------------
 7. Helper Classes
 -------------------------------------------*/
-a:hover{color: #d21825;}
+a:hover{color: #00aeef;}
 /*--------------------
 a) Text-content
 ----------------------*/
@@ -862,7 +856,7 @@ a) Text-content
 
 .icon-holder-md i {
     font-size: 55px;
-    color: #d21825;
+    color: #00aeef;
 }
 
 /*--------------------
@@ -983,7 +977,7 @@ c) Buttons
 	display: inline-block;
 	position: relative;
 	font-size: 16px;
-	color: #d21825;
+	color: #00aeef;
 	font-weight: 500;
 	background: transparent;
 	border-radius: 5px;
@@ -1003,7 +997,7 @@ c) Buttons
 	font-size: 16px;
 	color: #fff;
 	font-weight: 500;
-	background: #d21825;
+	background: #00aeef;
 	border-radius: 5px;
 	padding: 15px;
 	-webkit-transition: all 0.3s ease;
@@ -1029,7 +1023,7 @@ c) Buttons
     -o-transition: all 0.3s ease;
 }
 .button-dark:hover{
-    background: #d21825;
+    background: #00aeef;
     color: #fff;
 }
 
@@ -1077,7 +1071,7 @@ c) Buttons
 	font-size: 16px;
 	color: #fff;
 	font-weight: 500;
-	background-image: linear-gradient(to right, #d218250%, #afcdff 100%);
+	background-image: linear-gradient(to right, #00aeef0%, #afcdff 100%);
 	border-radius: 5px;
 	padding: 15px;
 	-webkit-transition: all 0.3s ease;
@@ -1144,8 +1138,8 @@ c) Buttons
 	-o-transition: all 0.3s ease;
 }
 .button-grey-bordered:hover{
-	background: #d21825;
-	border-color: #d21825;
+	background: #00aeef;
+	border-color: #00aeef;
 	color: #fff;
 }
 
@@ -1154,9 +1148,9 @@ c) Buttons
 	display: inline-block;
 	position: relative;
 	font-size: 16px;
-	color: #d21825;
+	color: #00aeef;
 	font-weight: 600;
-	border: 2px solid #d21825;
+	border: 2px solid #00aeef;
 	background: transparent;
 	border-radius: 5px;
 	padding: 15px;
@@ -1165,8 +1159,8 @@ c) Buttons
 	-o-transition: all 0.3s ease;
 }
 .button-primary-bordered:hover{
-	background: #d21825;
-	border-color: #d21825;
+	background: #00aeef;
+	border-color: #00aeef;
 	color: #fff;
 }
 
@@ -1189,19 +1183,19 @@ c) Buttons
 }
 
 .button-simple:hover i{
-	color: #d21825;
+	color: #00aeef;
 	margin-left: 10px;
 }
 
 .button-simple-primary{
 	display: inline-block;
-	color: #d21825;
+	color: #00aeef;
 	font-size: 15px;
 	font-weight: 500;
 }
 
 .button-simple-primary i{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 12px;
 	margin-left: 5px;
 	-webkit-transition: all 0.3s ease;
@@ -1273,7 +1267,7 @@ d) Lists
     margin-top: 15px;  
 }
 .primary-list li i{
-    color: #d21825;
+    color: #00aeef;
 	font-size: 18px;
     padding-right: 10px;
 	transform: translateY(2px);
@@ -1290,7 +1284,7 @@ d) Lists
 	margin-top: 15px;
 }
 .grey-list li i{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 18px;
 	padding-right: 10px;
 	transform: translateY(2px);
@@ -1323,7 +1317,7 @@ d) Lists
     margin-top: 15px;  
 }
 .white-list li i{
-    color: #d21825;
+    color: #00aeef;
     padding-right: 15px;
 }
 
@@ -1380,7 +1374,7 @@ e) Color Control
 .primary-color i,
 .primary-color strong,
 .primary-color span{
-	color: #d21825!important;
+	color: #00aeef!important;
 }
 
 
@@ -1650,7 +1644,7 @@ g) Pagination
 }
 
 .pagination a.active {
-	background: #d21825;
+	background: #00aeef;
 	color: #fff;
 }
 
@@ -2061,8 +2055,8 @@ i) Forms
 }
 
 .checkbox input[type="checkbox"]:checked + label::before {
-    background-color: #d21825;
-    color: #d21825;
+    background-color: #00aeef;
+    color: #00aeef;
 }
 
 
@@ -2105,7 +2099,7 @@ i) Forms
 	right: 7px;
 	bottom: 7px;
 	left: 7px;
-	background: #d21825;
+	background: #00aeef;
 	border-radius: 2px;
 }
 
@@ -2244,7 +2238,7 @@ i) Forms
 }
 
 .default-tabs .tabs .tab-menu li a i{
-	color: #d21825;
+	color: #00aeef;
 	display: inline-block;
 	font-size: 15px;
 	margin-right: 10px; 
@@ -2253,11 +2247,11 @@ i) Forms
 
 
 .default-tabs .tabs .tab-menu li:hover a, .default-tabs .tabs .tabs li:hover i {
-	color: #d21825;
+	color: #00aeef;
 }
 
 .default-tabs .tab-menu .active-tab a, .default-tabs .active-tab a i {
-	color: #d21825!important;
+	color: #00aeef!important;
 }
 
 
@@ -2430,7 +2424,7 @@ i) Forms
 }
 
 .medium-icon-tabs .tab-menu .active-tab a{
-	background: #d21825!important;
+	background: #00aeef!important;
 	color: #fff;
 }
 
@@ -2518,23 +2512,23 @@ i) Forms
 }
 
 .medium-icon-tabs-light .tabs .tab-menu li a:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 .medium-icon-tabs-light .tabs .tab-menu li a:hover i{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .medium-icon-tabs-light .tab-menu .active-tab a, .medium-icon-tabs .active-tab a i {
-	color: #d21825!important;
+	color: #00aeef!important;
 }
 
 .medium-icon-tabs-light .active-tab a i {
-	color: #d21825!important;
+	color: #00aeef!important;
 }
 
 .medium-icon-tabs-light .tab-menu .active-tab a{
 	background: #fff !important;
-	color: #d21825;
+	color: #00aeef;
 }
 
 
@@ -2602,7 +2596,7 @@ i) Forms
 }
 
 .big-icon-tabs .tabs .tab-menu li a i{
-	color: #d21825;
+	color: #00aeef;
 	display: block;
 	font-size: 40px;
 	margin-bottom: 10px; 
@@ -2610,11 +2604,11 @@ i) Forms
 }
 
 .big-icon-tabs .tabs .tab-menu li:hover a, .big-icon-tabs .tabs .tabs li:hover i {
-	color: #d21825;
+	color: #00aeef;
 }
 
 .big-icon-tabs .tab-menu .active-tab a, .big-icon-tabs .active-tab a i {
-	border-color: #d21825!important;
+	border-color: #00aeef!important;
 }
 
 .big-icon-tabs .tab-menu .active-tab a{
@@ -2685,7 +2679,7 @@ i) Forms
 }
 
 .progress-bar-primary{
-	background: #d21825;
+	background: #00aeef;
 }
 
 .progress-bar-dark{
@@ -2838,7 +2832,7 @@ i) Forms
 .countup-box h5{
 	font-size: 17px;
 	font-weight: 600;
-	color: #d21825;
+	color: #00aeef;
 	z-index: 2;
 }
 
@@ -2878,14 +2872,14 @@ i) Forms
 
 .countup-box-2 h3{
 	display: inline-block;
-	color: #d21825;
+	color: #00aeef;
 	font-size: 60px;
 	font-weight: 300;
 	line-height: 1;
 }
 
 .countup-box-2 span{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 45px;
 	font-weight: 400;
 	line-height: 1;
@@ -3038,15 +3032,15 @@ i) Forms
 	display: block;
 	font-size: 15px;
 	font-weight: 500;
-	color: #d21825;
+	color: #00aeef;
 }
 
 .card-primary a:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .card-primary .collapsed:focus:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .card-primary a:after{
@@ -3116,7 +3110,7 @@ i) Forms
 .custom-dot.active span{
   width: 9px;
   height: 9px;
-  background: #d21825;
+  background: #00aeef;
   -webkit-transition-duration: .3s;
   transition-duration: .3s;    
 }
@@ -3269,7 +3263,7 @@ i) Forms
 .service-box i{
 	display: inline-block;
 	font-size: 62px;
-	color: #d21825;
+	color: #00aeef;
 	margin: 5px 0px;
 }
 
@@ -3279,7 +3273,7 @@ i) Forms
 }
 
 .service-box h4 a:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .service-box p{
@@ -3296,8 +3290,8 @@ i) Forms
 	left: calc(50% - 30px);
 	border-radius: 50%;
 	display: inline-block;
-	background: #d21825;
-	border: 2px solid #d21825;
+	background: #00aeef;
+	border: 2px solid #00aeef;
 	color: #fff;
 	width: 60px;
 	height: 60px;
@@ -3318,7 +3312,7 @@ i) Forms
 }
 
 .service-box .service-box-btn:hover i{
-	color: #d21825;
+	color: #00aeef;
 }
 
 
@@ -3337,7 +3331,7 @@ i) Forms
 }
 
 .service-block:hover .service-block-content-button i{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .service-block img{
@@ -3374,8 +3368,8 @@ i) Forms
 	left: calc(50% - 30px);
 	border-radius: 10px;
 	display: inline-block;
-	background: #d21825;
-	border: 2px solid #d21825;
+	background: #00aeef;
+	border: 2px solid #00aeef;
 	color: #fff;
 	width: 60px;
 	height: 60px;
@@ -3395,7 +3389,7 @@ i) Forms
 }
 
 .service-block-content-button:hover i{
-	color: #d21825!important;
+	color: #00aeef!important;
 }
 
 /*----- Style 3 -----*/
@@ -3437,7 +3431,7 @@ i) Forms
 }
 
 .service-block-2-btn i{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 11px;
 	margin-left: 5px;
 	-webkit-transition-duration: .3s;
@@ -3504,8 +3498,8 @@ i) Forms
 }
 
 .service-box-2:hover .service-box-2-icon{
-	background: #d21825;
-	border: 2px solid #d21825;
+	background: #00aeef;
+	border: 2px solid #00aeef;
 }
 
 .service-box-2-icon i{
@@ -3596,7 +3590,7 @@ i) Forms
 }
 
 .service-box-3:hover{
-	border: 2px solid #d21825;
+	border: 2px solid #00aeef;
 	transform: translateY(-5px);
 	box-shadow: 0 20px 30px rgba(0,0,0,.08);
 }
@@ -3621,7 +3615,7 @@ i) Forms
 
 .service-box-3-icon i{
 	display: block;
-	color: #d21825;
+	color: #00aeef;
 	font-size: 50px;
 	transform: translateY(35px) rotate(-45deg);
 }
@@ -3648,7 +3642,7 @@ i) Forms
 }
 
 .service-box-3-btn i {
-	color: #d21825;
+	color: #00aeef;
 	font-size: 12px;
 	margin-left: 5px;
 	-webkit-transition: all 0.3s ease;
@@ -3657,7 +3651,7 @@ i) Forms
 }
 
 .service-box-3-btn:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .service-box-3-btn:hover i{
@@ -3684,7 +3678,7 @@ i) Forms
 	width: 80px;
 	height: 80px;
 	text-align: center;
-	color: #d21825;
+	color: #00aeef;
 	font-size: 50px;
 	padding: 10px;
 	border-radius: 50%;
@@ -3729,7 +3723,7 @@ i) Forms
 
 .features-box-2-icon i{
 	display: block;
-	color: #d21825;
+	color: #00aeef;
 	font-size: 60px;
 	transform: translateY(40px) rotate(-45deg);
 }
@@ -3757,7 +3751,7 @@ i) Forms
 
 .features-box-3 i{
 	font-size: 55px;
-	color: #d21825;
+	color: #00aeef;
 }
 
 .features-box-3 h4{
@@ -3790,7 +3784,7 @@ i) Forms
 
 .features-box-4 .features-box-4-icon i{
     display: block;
-    color: #d21825;
+    color: #00aeef;
     font-size: 42px;
     transform: translateY(22px);
 }
@@ -3868,7 +3862,7 @@ i) Forms
 .service-section:hover{
     box-shadow: 0 20px 30px rgba(0,0,0,.07);
     transform: translateY(-5px);
-    background: #d21825;
+    background: #00aeef;
 }
 .service-section:hover .service-section-icon i{
     color: #fff;
@@ -3877,7 +3871,7 @@ i) Forms
     text-align: right;
 }
 .service-section-icon i{
-    color: #d21825;
+    color: #00aeef;
     font-size: 50px;
 }
 .service-section h4{
@@ -3953,7 +3947,7 @@ i) Forms
 }
 
 .testmonial-box-content strong{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 14px;
 	line-height: 1.6;
 	font-weight: 500;
@@ -4015,7 +4009,7 @@ i) Forms
 
 .testmonials-carousel-2 .testmonial-item .stars i{
 	font-size: 14px;
-	color: #d21825;
+	color: #00aeef;
 }
 
 .testmonials-carousel-2 .owl-dots{
@@ -4076,7 +4070,7 @@ i) Forms
 }
 
 .testmonials-carousel-3 .testmonial-rating i{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 13px;
 }
 
@@ -4092,7 +4086,7 @@ i) Forms
 }
 
 .testmonial-box-2 .quote-icon{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 28px;
 }
 
@@ -4158,7 +4152,7 @@ i) Forms
 	border-radius: 50%;
 	width: 80px;
 	height: 80px;
-	border: 2px solid #d21825;
+	border: 2px solid #00aeef;
 	padding: 2px;
 }
 
@@ -4195,7 +4189,7 @@ i) Forms
 
 .testmonial-item-5 .stars i{
 	font-size: 13px;
-	color: #d21825;
+	color: #00aeef;
 }
 
 @media (max-width: 1146px) {
@@ -4299,7 +4293,7 @@ i) Forms
 .contact-icon-box i{
 	float: left;
 	display: inline-block;
-	color: #d21825;
+	color: #00aeef;
 	font-size: 50px;
 	margin-right: 20px;
 }
@@ -4365,7 +4359,7 @@ i) Forms
 }
 
 .contact-form-2 input:focus, .contact-form-2 textarea:focus, .contact-form-2 select:focus{
-	border-color: #d21825;
+	border-color: #00aeef;
 }
 
 /*-----------------------------------------
@@ -4655,7 +4649,7 @@ i) Forms
 
 
 .primary-overlay-10:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4667,7 +4661,7 @@ i) Forms
 }
 
 .primary-overlay-20:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4679,7 +4673,7 @@ i) Forms
 }
 
 .primary-overlay-30:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4691,7 +4685,7 @@ i) Forms
 }
 
 .primary-overlay-40:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4703,7 +4697,7 @@ i) Forms
 }
 
 .primary-overlay-50:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4715,7 +4709,7 @@ i) Forms
 }
 
 .primary-overlay-60:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4727,7 +4721,7 @@ i) Forms
 }
 
 .primary-overlay-70:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4739,7 +4733,7 @@ i) Forms
 }
 
 .primary-overlay-80:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4751,7 +4745,7 @@ i) Forms
 }
 
 .primary-overlay-90:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4763,7 +4757,7 @@ i) Forms
 }
 
 .primary-overlay-100:before {
-    background: #d21825;
+    background: #00aeef;
     content: "";
     height: 100%;
     left: 0;
@@ -4993,14 +4987,14 @@ i) Forms
 
 .pricing-box h2{
 	text-align: center;
-	color: #d21825;
+	color: #00aeef;
 	font-size: 35px;
 	font-weight: 400;
 	margin-top: 10px;
 }
 
 .pricing-box h2 sup{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 25px;
 	font-weight: 400;
 }
@@ -5024,7 +5018,7 @@ i) Forms
 
 .pricing-box ul li i{
 	font-size: 14px;
-	color: #d21825;
+	color: #00aeef;
 	float: right;
 	margin-top: 10px;
 }
@@ -5037,9 +5031,9 @@ i) Forms
 	display: inline-block;
 	position: relative;
 	font-size: 13px;
-	color: #d21825;
+	color: #00aeef;
 	font-weight: 500;
-	border: 2px solid #d21825;
+	border: 2px solid #00aeef;
 	background: transparent;
 	border-radius: 5px;
 	padding: 10px 30px;
@@ -5050,15 +5044,15 @@ i) Forms
 }
 .pricing-box-button a:hover{
 	color: #fff;
-	background: #d21825;
+	background: #00aeef;
 }
 
 .pricing-box-button-active a{
 	color: #fff;
-	background: #d21825;
+	background: #00aeef;
 }
 .pricing-box-button-active a:hover{
-	color: #d21825;
+	color: #00aeef;
 	background: #fff;
 }
 
@@ -5069,7 +5063,7 @@ i) Forms
 	transform: scale(1.05);
 	text-align: center;
 	background: #fff;
-	border: 2px solid #d21825;
+	border: 2px solid #00aeef;
 	border-radius: 5px;
 	padding-bottom: 35px;
 	margin-top: 20px;
@@ -5100,12 +5094,12 @@ i) Forms
 
 .pricing-section-price h2{
 	font-family: 'Montserrat', sans-serif;
-	color: #d21825;
+	color: #00aeef;
 	font-size: 60px;
 	font-weight: 700;
 }
 .pricing-section-price h2 sup{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 35px;
 	font-weight: 700;
 	margin-right: 5px;
@@ -5156,7 +5150,7 @@ i) Forms
 }
 
 .pricing-box-3-category h4{
-    color: #d21825;
+    color: #00aeef;
     font-size: 20px;
     font-weight: 500;
 }
@@ -5184,7 +5178,7 @@ i) Forms
     transition-duration: .3s;
 }
 .pricing-box-3:hover h2 span{
-    color: #d21825;
+    color: #00aeef;
 }
 
 .pricing-box-3 ul{
@@ -5213,9 +5207,9 @@ i) Forms
     display: inline-block;
     position: relative;
     font-size: 15px;
-    color: #d21825;
+    color: #00aeef;
     font-weight: 500;
-    border: 1.5px solid #d21825;
+    border: 1.5px solid #00aeef;
     background: #fff;
     border-radius: 5px;
     padding: 11px 20px;
@@ -5235,7 +5229,7 @@ i) Forms
     display: inline-block;
     text-align: center;
     position: absolute;
-    background: #d21825;
+    background: #00aeef;
     top: 0px;
     right: 40px;
     padding: 0px;
@@ -5327,7 +5321,7 @@ i) Forms
 	transition-duration: .4s;
 }
 .team-box-2:hover .team-box-2-info h6{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .team-box-2-icon{
@@ -5354,7 +5348,7 @@ i) Forms
 	transition-duration: .3s;
 }
 .team-box-2-icon li a i:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 /*--------- Style 3 ----------*/
@@ -5442,7 +5436,7 @@ i) Forms
     transition-duration: .3s;
 }
 .team-box-3-info ul li i:hover{
-    color: #d21825;
+    color: #00aeef;
     font-size: 16px;
 }
 
@@ -5514,7 +5508,7 @@ i) Forms
     height: 12px;
     right: -4px;
     background-color: #fff;
-    border: 2px solid #d21825;
+    border: 2px solid #00aeef;
     top: 15px;
     border-radius: 50%;
     z-index: 1;
@@ -5592,7 +5586,7 @@ i) Forms
 
 .timeline h2{
     display: block;
-    color: #d21825;
+    color: #00aeef;
     font-size: 16px;
     font-weight: 600;
     margin-bottom: 15px;
@@ -5600,7 +5594,7 @@ i) Forms
 
 .timeline-left-all h2{
     width: 50%;
-    color: #d21825;
+    color: #00aeef;
     margin-left: 50%;
     padding-left: 30px;
     margin-bottom: -35px;
@@ -5609,7 +5603,7 @@ i) Forms
 .timeline-right-all h2{
     width: 50%;
     text-align: right;
-    color: #d21825;
+    color: #00aeef;
     padding-right: 35px;
     margin-bottom: -35px;
 }
@@ -5658,7 +5652,7 @@ i) Forms
         padding-left: 65px;
         padding-bottom: 10px;
         margin-bottom: 0px !important;
-        color: #d21825;
+        color: #00aeef;
         text-align: left !important;
     }
 }
@@ -5687,11 +5681,11 @@ i) Forms
 }
 
 .contact-box-info-4:hover{
-    border-color: #d21825;
+    border-color: #00aeef;
 }
 
 .contact-box-info-4 i{
-    color: #d21825;
+    color: #00aeef;
     font-size: 55px;
 }
 
@@ -5711,7 +5705,7 @@ i) Forms
 }
 
 .contact-box-info-4 h5{
-    color: #d21825;
+    color: #00aeef;
     font-size: 15px;
     font-weight: 500;
     padding-top: 15px;
@@ -5782,7 +5776,7 @@ i) Forms
 }
 
 .contact-box-place-office ul li i{
-    color: #d21825;
+    color: #00aeef;
     font-size: 14px;
     margin-right: 15px;
 }
@@ -5808,7 +5802,7 @@ i) Forms
 }
 
 .search-result a:hover {
-	color: #d21825;
+	color: #00aeef;
 }
 
 .search-result p {
@@ -5842,7 +5836,7 @@ i) Forms
 	width: 65px;
 	max-width: 100%;
 	height: 2px;
-	background: #d21825;
+	background: #00aeef;
 	margin-top: 10px;
 }
 
@@ -5883,7 +5877,7 @@ i) Forms
 }
 
 .vertical-nav-1 li a:hover {
-	color: #d21825;
+	color: #00aeef;
 }
 
 /*-----------------------------------------
@@ -6097,7 +6091,7 @@ i) Forms
 
 .error-section-2 h1 {
 	position: relative;
-	color: #d21825;
+	color: #00aeef;
 	font-size: 120px;
 	font-weight: 700;
 	line-height: 1;
@@ -6669,7 +6663,7 @@ i) Forms
 	float: right;
 	position: absolute;
 	text-align: center;
-	background: #d21825;
+	background: #00aeef;
 	left: 20px;
 	top: 5px;
 	min-width: 60px;
@@ -6727,7 +6721,7 @@ i) Forms
     font-weight: 500;
 }
 .shop-product h3 a:hover{
-    color: #d21825;
+    color: #00aeef;
 }
 
 .shop-product h6{
@@ -6781,7 +6775,7 @@ i) Forms
 
 .price-star i {
     font-size: 12px;
-    color: #d21825;
+    color: #00aeef;
 }
 
 .price-star h6{
@@ -6802,7 +6796,7 @@ i) Forms
 }
 .price-star ul li{
     display: inline-block;
-    color: #d21825;
+    color: #00aeef;
     margin: 0px;
 }
 
@@ -6886,7 +6880,7 @@ i) Forms
     font-size: 14px;
 }
 .product-categories ul li a:hover{
-    color: #d21825;
+    color: #00aeef;
 }
 .product-categories ul li:after{
     content: ' / ';
@@ -6929,7 +6923,7 @@ i) Forms
     font-size: 14px;
 }
 .product-tags ul li a:hover{
-    color: #d21825;
+    color: #00aeef;
 }
 .product-tags ul li:after{
     content: ', ';
@@ -7025,7 +7019,7 @@ i) Forms
 
 .add-to-cart-button{
     display: inline-block;
-    background: #d21825;
+    background: #00aeef;
     color: #fff;
     font-size: 14px;
     font-weight: 500;
@@ -7059,7 +7053,7 @@ i) Forms
     transition-duration: .3s;
 }
 .product-share a i:hover{
-    color: #d21825;
+    color: #00aeef;
 }
 
 /*---------------
@@ -7090,12 +7084,12 @@ Shop Tabs
 }
 
 .shop-tabs .tabs .tab-menu li:hover a, .tabs li:hover i {
-    color: #d21825;
+    color: #00aeef;
 }
 
 .shop-tabs .tab-menu .active-tab a, .shop-tabs .active-tab a i {
-    color: #d21825!important;
-    border-color: #d21825!important;
+    color: #00aeef!important;
+    border-color: #00aeef!important;
 }
 
 .shop-tabs .tab-menu{
@@ -7170,7 +7164,7 @@ Shop Tabs
     display: block;
     width: 70px;
     height: 2px;
-    background: #d21825;
+    background: #00aeef;
     margin-top: 15px;
     margin-bottom: 10px;
 }
@@ -7277,17 +7271,17 @@ Shop Product Review Form
 
 .rating:not(:hover) label input:checked ~ .icon,
 .rating:hover label:hover input ~ .icon {
-    color: #d21825;
+    color: #00aeef;
 }
 
 .rating label input:focus:not(:checked) ~ .icon:last-child {
     color: #ccc;
-    text-shadow: 0 0 5px #d21825;
+    text-shadow: 0 0 5px #00aeef;
 }
 
 .customer-review-img{
 	border-radius: 50%;
-	border: 2px solid #d21825;
+	border: 2px solid #00aeef;
 	padding: 3px;
 }
 
@@ -7314,7 +7308,7 @@ Shop Product Review Form
 
 .customer-review-block strong{
     display: inline-block;
-    color: #d21825;
+    color: #00aeef;
     font-size: 13px;
     font-weight: 500;
     line-height: 1;
@@ -7332,7 +7326,7 @@ Shop Product Review Form
     margin: 5px 0px;
 }
 .customer-review-stars i{
-    color: #d21825;
+    color: #00aeef;
     font-size: 12px;
 }
 
@@ -7662,7 +7656,7 @@ Shop Product Review Form
 	display: flex;
 	align-items: center;
     transition: .5s ease;
-    background-color: #d21825;
+    background-color: #00aeef;
 }
 
 .portolio-boxed:hover .portolio-boxed-overlay {
@@ -7743,8 +7737,8 @@ Shop Product Review Form
 }
 
 .portolio-boxed-2 .portfolio-btn a:hover{
-	border-color: #d21825;
-	color: #d21825;
+	border-color: #00aeef;
+	color: #00aeef;
 }
 
 
@@ -7853,7 +7847,7 @@ Shop Product Review Form
 
 .blog-team-box{
 	display: inline-block;
-	background: #d21825;
+	background: #00aeef;
 	border-radius: 5px;
 	padding: 5px 8px;
 	position: relative;
@@ -7959,7 +7953,7 @@ Shop Product Review Form
 }
 
 .blog-list-info li i{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 15px;
 	padding-right: 10px;
 }
@@ -7991,7 +7985,7 @@ blockquote{
 	font-weight: 500;
 	color: #222;
 	padding: 20px;
-	border-left: 4px solid #d21825;
+	border-left: 4px solid #00aeef;
 	line-height: 1.6;
 	position: relative;
 	background: #f1f1f1;
@@ -8021,7 +8015,7 @@ blockquote{
 }
 
 #search-input button i{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 16px;
 	margin: 8px 3px 0px 0px;
 	-webkit-transition-duration: .3s;
@@ -8053,7 +8047,7 @@ blockquote{
 }
 
 .blog-post-categories ul li a:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .blog-post-categories ul li a span{
@@ -8063,7 +8057,7 @@ blockquote{
 }
 
 .blog-post-categories ul li:hover a span{
-	color: #d21825;
+	color: #00aeef;
 }
 
 /*Top News*/
@@ -8084,7 +8078,7 @@ blockquote{
 }
 
 .top-news-info h3 a:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .top-news-info h6{
@@ -8134,7 +8128,7 @@ blockquote{
 	transition-duration: .4s;
 }
 .archive-box ul li a:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .archive-box ul li span{
@@ -8171,7 +8165,7 @@ blockquote{
 }
 
 .blog-post-follow ul li:hover {
-	background: #d21825;
+	background: #00aeef;
 }
 
 /*Comments*/
@@ -8204,7 +8198,7 @@ blockquote{
 }
 
 .blog-comment-user strong{
-	color: #d21825;
+	color: #00aeef;
 	font-size: 12px;
 	font-weight: 600;
 	float: right;
@@ -8239,7 +8233,7 @@ blockquote{
 	width: 65px;
 	max-width: 100%;
 	height: 2px;
-	background: #d21825;
+	background: #00aeef;
 	margin-top: 10px;
 }
 
@@ -8326,7 +8320,7 @@ blockquote{
 }
 
 .footer-nav a:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .footer-news li{
@@ -8348,7 +8342,7 @@ blockquote{
 }
 
 .footer-news a:hover{
-	color: #d21825;
+	color: #00aeef;
 }
 
 .footer-news strong{
@@ -8360,7 +8354,7 @@ blockquote{
 }
 
 .footer-news strong i{
-	color: #d21825;
+	color: #00aeef;
 	margin-right: 5px;
 }
 
@@ -8375,7 +8369,7 @@ blockquote{
 }
 
 .footer-subscribe-form button{
-	background: #d21825;
+	background: #00aeef;
 	color: #fff;
 	font-size: 17px;
 	width: 50px;
@@ -8388,7 +8382,7 @@ blockquote{
 }
 
 .footer-subscribe-form button:hover{
-	color: #d21825;
+	color: #00aeef;
 	background: #f5f5f5;
 }
 
