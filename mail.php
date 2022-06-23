@@ -1,6 +1,6 @@
 <?php
     
-    $to = 'info@enikkomgroup.com';
+    $to = 'info@enikkomgroup.obuchimultimedia.com';
     $name = $_POST["name"];
     $email= $_POST["email"];
     $text= $_POST["message"];
