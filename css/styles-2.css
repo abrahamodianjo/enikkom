@@ -1391,8 +1391,8 @@ f) Video Box
 	color: #222;
 	font-size: 20px;
 	background: rgba(255, 255, 255, 1);
-	width: 80px;
-	height: 80px;
+	width: 500px;
+	height: 500px;
 	border-radius: 50%;
 	padding-top: 2.5px;
 	padding-left: 8.5px;
@@ -2048,7 +2048,7 @@ i) Forms
 -------------------------------------------*/
 .breadcrumb-section{
     position: relative;
-	background-image: url('http://via.placeholder.com/1500x630');
+	background-image: url(../img/13.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2057,7 +2057,7 @@ i) Forms
 
 .breadcrumb-section h1 {
     position: relative;
-    color: #00aeef;
+    color: white;
     font-size: 40px;
 }
 
