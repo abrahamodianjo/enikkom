@@ -1060,3 +1060,12 @@ $(".style6" ).on("click", function(){
     $("#footer_logo" ).attr("src", "img/logos/logo-footer-6.png" );
     return false;
 });
+
+document.addEventListener("click",function (e){
+    if(e.target.classList.contains("working-item")){
+          const src = e.target.getAttribute("src");
+          document.querySelector(".modal-img").src = src;
+          const myModal = new bootstrap.Modal(document.getElementById('working-modal'));
+          myModal.show();
+    }
+  })
