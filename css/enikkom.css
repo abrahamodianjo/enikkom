@@ -28,21 +28,26 @@
     width: 100%;
     min-height: 100vh;
     display: flex;
-    align-items: center;
     justify-content: center;
-    padding: 50px 8%;
+    padding: 25px 1%;
 
 }
 .working{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    grid-gap: 35px 15px;
-    padding: 80px 0;
+    grid-template-columns: repeat(4, minmax(340px, 1fr));
+    grid-gap: 15px;
+    padding: 1px 0;
+
+
+}
+@media (max-width: 767px) {
+	.working{
+        overflow: scroll;
+	}
 }
 
 .working img{
     width: 100%;
-    padding: 5px;
     box-shadow: 0 0 15px rgba(0,0,0,0.3);
 	cursor: pointer;
 }
@@ -50,4 +55,5 @@
 img{
     max-width: 100%;
 }
+
 
