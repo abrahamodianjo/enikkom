@@ -29,26 +29,26 @@
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    padding: 25px 1%;
+
 
 }
 .working{
     display: grid;
-    grid-template-columns: repeat(4, minmax(340px, 1fr));
-    grid-gap: 15px;
-    padding: 1px 0;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, minmax(320px, 1fr));
+
 
 
 }
 @media (max-width: 767px) {
 	.working{
-        overflow: scroll;
+        grid-template-columns: repeat(2, minmax(185px, 0.1fr));
+
 	}
 }
 
 .working img{
     width: 100%;
-    box-shadow: 0 0 15px rgba(0,0,0,0.3);
 	cursor: pointer;
 }
 
